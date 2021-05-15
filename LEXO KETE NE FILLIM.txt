@@ -1,0 +1,6 @@
+"index.php" do te jete dosja ku te vendoset website qe do bejme (brenda saj ka edhe HTML).
+
+ne dokumentet me ".php" ka edhe pjese me CSS te cilat mund ti ndryshoni ose fshini.
+
+"login.php" dhe "signup.php" jane dy faqe te vecanta ku besoj qe nuk kane nevoje te shpjegohen.
+
